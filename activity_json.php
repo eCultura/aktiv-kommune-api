@@ -1,6 +1,6 @@
 <?php
 /*
-File  Name: html_activity_json.php
+File  Name: activity_json.php
 File  URI: https://wiki.aktiv-kommune.no/
 Description: Used in Aktiv komunne API files
 Version: 0.1.0
