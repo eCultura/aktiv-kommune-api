@@ -12,5 +12,5 @@ eks. på bruk: http://aktiv.fjell.no/culture/api/activity_json.php?html_code=1&c
 
 >Lager filene html_activity.json og actvity.csv i samme mappe
 
->Brukes kun http://aktiv.fjell.no/culture/api/activity_json.php lages kun filen activity.json
+>Brukes http://aktiv.fjell.no/culture/api/activity_json.php lages kun filen activity.json
 
