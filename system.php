@@ -16,7 +16,7 @@ define( 'ROOT_DIR', dirname(__FILE__) );
 define( 'BASE_DIR', '/');
 define( "PORTICO_URL", "https://aktiv.fjell.kommune.no/");
 define( "PORTICO_IMAGES_URL", "https://aktiv.fjell.kommune.no/portico/bookingfrontend/");
-define( 'ORG_IMAGES_URL', 'http://aktiv.fjell.no/culture/images/org/');
+define( 'ORG_IMAGES_URL', 'http://ecultura.no/1299/wp-content/uploads/sites/8/');
 define( 'MUNICIPALITY_ID', '1299');
 define( 'LOCAL_COUNTRY_NAME', 'Norge' );
 define( 'CRON_JOB_OUTPUT', true);
