@@ -14,7 +14,7 @@ ini_set('display_startup_errors', 1);
 
 define( 'ROOT_DIR', dirname(__FILE__) );
 define( 'BASE_DIR', '/');
-define( "PORTICO_URL", "https://aktiv-kommune.no/app/portico");
+define( "PORTICO_URL", "https://aktiv-kommune.no/1299/app/portico");
 define( "PORTICO_IMAGES_URL", "https://aktiv-kommune.no/1299/app/portico/bookingfrontend/");
 define( 'ORG_IMAGES_URL', 'http://ecultura.no/1299/wp-content/uploads/sites/8/');
 define( 'MUNICIPALITY_ID', '1299');
