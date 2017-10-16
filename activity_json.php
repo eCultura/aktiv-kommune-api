@@ -11,15 +11,23 @@ License: GLPv2
 
   include_once("system.php");
 
+if (isset($_GET['html_code'])) {
   $html_code = $_GET['html_code'];
   if ( $html_code == 1 ) {
     $html_code = TRUE;
   }
+} else {
+  $html_code = FALSE;
+}
 
+if (isset($_GET['csv_create'])) {
   $csv_create = $_GET['csv_create'];
   if ( $csv_create == 1 ){
     $csv_create = TRUE;
   }
+} else {
+  $csv_create = FALSE;
+}
 
   $con = pg_connect("host=".DB_HOST. " port=" .DB_PORT. " dbname=" .DB_NAME. " user=" .DB_USER. " password=" .DB_PASS);
   pg_set_client_encoding($con, "UTF8");
