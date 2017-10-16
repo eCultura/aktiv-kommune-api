@@ -6,6 +6,7 @@ Description: Used in Aktiv komunne API files
 Version: 0.1.0
 Author: Arild M. Halvorsen
 Author URI: http://about.me/arild
+License: GLPv2
 */
 
   include_once("system.php");
