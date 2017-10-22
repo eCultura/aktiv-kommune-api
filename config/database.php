@@ -2,11 +2,11 @@
 class Database{
 
     // specify database credentials
-    private $host = 'geitanger.dyndns-ip.com';
-    private $port = '5432';
-    private $db_name = 'portico';
-    private $username = 'portico';
-    private $password = 'portico';
+    private $host = '';
+    private $port = '';
+    private $db_name = '';
+    private $username = '';
+    private $password = '';
     public $conn;
 
     // get the database connection
