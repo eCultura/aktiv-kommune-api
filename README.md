@@ -1,7 +1,7 @@
 # aktiv-kommune-api
 API for Aktiv kommune - (Portico)
 
-**Installasjopn:**
+**Installasjon:**
 
 >Disse filene installeres i .../app/portico/api
 
