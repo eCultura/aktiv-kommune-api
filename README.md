@@ -14,4 +14,4 @@ eks. på bruk: http://aktiv.fjell.no/culture/api/activity_json.php?html_code=1&c
 
 >Brukes http://aktiv.fjell.no/culture/api/activity_json.php lages kun filen activity.json
 
-Endre system.php slik at den passer behovene.
+Endre config/system.php slik at den passer behovene.
