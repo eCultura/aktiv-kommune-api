@@ -1,12 +1,12 @@
 <?php
+include_once("system.php");
 class Database{
 
     // specify database credentials
-    private $host = '';
-    private $port = '';
-    private $db_name = '';
-    private $username = '';
-    private $password = '';
+    private $host = DB_HOST;
+    private $dbname = DB_NAME;
+    private $username = DB_USER;
+    private $password = DB_PASS;
     public $conn;
 
     // get the database connection
