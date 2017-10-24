@@ -7,9 +7,17 @@ API for Aktiv kommune - (Portico)
 
 **Liste over API'er og eksempler på bruk:**
 
->_activity/read.php_ - Viser en liste med aktiviteter fra bb_activity.
+>_activity/read.php_ - Viser alle poster fra bb_activity.
 
 eks. på bruk: http://aktiv.fjell.no/aktivivest/api/activity/read.php
+
+>_activity/read_one.php_ - Viser èn spesifikk post med aktivitet fra bb_activity.
+
+eks. på bruk: http://aktiv.fjell.no/aktivivest/api/activity/read_one.php?id=10
+
+>_activity/search.php_ - Søker etter poster og viser resultat fra bb_activity.
+
+eks. på bruk: http://aktiv.fjell.no/aktivivest/api/activity/search.php?s=ball
 
 >_activity_json.php_ - Viser en liste med aktiviteter fra bb_activity. Kan også inneholde html kode som benyttes i Wordpress (Alchem Pro Child) 
 
