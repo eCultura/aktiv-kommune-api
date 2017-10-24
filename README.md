@@ -27,4 +27,4 @@ eks. på bruk: http://aktiv.fjell.no/aktivivest/api/activity/activity_json.php?h
 
 >Brukes http://aktiv.fjell.no/aktivivest/api/activity/activity_json.php lages kun filen activity.json
 
-Endre config/system.php slik at den passer behovene.
+Endre config/system.php slik at den passer behovene. Vær oppmerksom på databaserettighetene.
