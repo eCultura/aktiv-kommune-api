@@ -3,7 +3,7 @@ API for Aktiv kommune - (Portico)
 
 **Installasjon:**
 
->Disse filene installeres i .../app/portico/api
+>Disse filene installeres i .../portico/api
 
 **Liste over API'er og eksempler på bruk:**
 
