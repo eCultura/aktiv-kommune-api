@@ -9,7 +9,7 @@ Author URI: http://about.me/arild
 License: GLPv2
 */
 
-  include_once("system.php");
+  include_once("../config/system.php");
 
 if (isset($_GET['html_code'])) {
   $html_code = $_GET['html_code'];
